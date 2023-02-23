@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://telegra.ph/file/bd4f48e53ad99f9867b8b.jpg"></h1>
 <h2 align="center"><b>Watch Animes Online For Free</b></h4>
 
-<p align="center" > <img alt="GitHub Forks" src="https://img.shields.io/github/forks/TechShreyash/AnimeDex?label=%F0%9F%8D%B4Forks&logoColor=blue&style=social"> <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/TechShreyash/AnimeDex?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=social"></p>
+<p align="center" > <img alt="GitHub Forks" src="https://img.shields.io/github/forks/phoenix-monarch/AnimeCafeZ?label=%F0%9F%8D%B4Forks&logoColor=blue&style=social"> <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/phoenix-monarch/AnimeCafeZ?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=social"></p>
 
 <hr>
 
@@ -47,18 +47,18 @@
 ### 👤 Contact Me
 <br>
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots_Support)
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/animecafeZ) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/weebzoneX)
 
 <hr>
 <br>
 
 ### ⭐ Credits
 
-* [TechZBots](https://t.me/)
-* [TechShreyash](https://github.com/)
+* [ᴍ ɪ ᴋ ᴇ ʏ](https://t.me/bloody_mikey)
+* [TechShreyash](https://github.com/TechShreyash)
 
 <br>
 
 ### ⛑ Important
 
-* [License](https://github.com/TechShreyash/AnimeDex/blob/main/LICENSE)
+* [License](https://github.com/phoenix-monarch/AnimeCafeZ/blob/main/LICENSE)
