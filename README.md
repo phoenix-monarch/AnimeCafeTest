@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/TechShreyash/AutoAnimeBot"><img src="./static/img/home.png"></a></p> 
+<p align="center"><a href="https://github.com/phoenix-monarch/AnimeCafeZ"><img src="https://telegra.ph/file/133afe1fd07db1d92cfdb.jpg"></a></p> 
 
 <h1 align="center"><img src="https://telegra.ph/file/bd4f48e53ad99f9867b8b.jpg"></h1>
 <h2 align="center"><b>Watch Animes Online For Free</b></h4>
